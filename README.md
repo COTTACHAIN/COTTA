@@ -1,2 +1,2 @@
 # COTTA
-A Decentralized, ZK-Proof Reputation Protocol on Solana
+A Decentralized, Verifiable, Portable, ZK-Proof Reputation Protocol on Solana
