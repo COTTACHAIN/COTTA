@@ -1,6 +1,6 @@
 What is COTTACHAIN?
 
-COTTACHAIN is a decentralized reputation system built on Solana, fostering trust and transparency across Web3 and Web2 platforms. It assigns portable, verifiable reputation scores based on on-chain activities—transactions, governance, or dApp interactions—seamlessly usable in DeFi, NFTs, DAOs, e-commerce, and social media. Powered by the COTTA token, COTTACHAIN ensures user-controlled, fraud-resistant trust through audited smart contracts.
+COTTACHAIN is a decentralized reputation system built on Solana, fostering trust and transparency across Web3 and Web2 platforms. It assigns portable, verifiable reputation scores based on on-chain activities transactions, governance, or dApp interactions seamlessly usable in DeFi, NFTs, DAOs, e-commerce, and social media. Powered by the COTTA token, COTTACHAIN ensures user controlled, fraud resistant trust through audited smart contracts.
 
 Why is COTTACHAIN Useful?
 
